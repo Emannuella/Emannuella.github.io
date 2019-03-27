@@ -4,5 +4,5 @@
 
   </center>
 
-![Image](mn.png) 
+<center> ![Image](mn.png) </center>
 
